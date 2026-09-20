@@ -1,0 +1,1 @@
+# Zoho Docs: Zapier integration\n\nConsider this as a focused improvement for everyday document workflows.\n\n- Keep the workflow simple and easy to discover.\n- Respect existing permissions and sharing settings.\n- Provide clear feedback when actions succeed or fail.\n- Document the feature for users and administrators.\n
